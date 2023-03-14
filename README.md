@@ -1,2 +1,2 @@
-# guluzadedadash-Segmentation-with-pie-chart-and-slice
+# guluzadedadash-Segmentation-webapp-streamlit
 Representation of segmentation with custom data, pie chart and slicer attached.
